@@ -730,3 +730,7 @@ branches of the BIP32 mathematical tree to follow.
 > perform deterministic HMAC-SHA512/secp256k1 child-key derivations,
 > starting from the master node and following the specified child
 > indexes.**
+
+------------------------------------------------------------------------
+
+<img width="768" height="356" alt="image" src="https://github.com/user-attachments/assets/88de1ed3-9d01-4f24-b5ab-b9b37bd0c26c" />
